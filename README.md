@@ -608,7 +608,7 @@ Our goal is to build a financial AI system where **intelligence is connected to 
 
 # 👥 Team
 
-**Team:** [Your Team Name]
+**Team:** [Aeris]
 
 **Project:** AXION — Autonomous Intelligence for Finance
 
