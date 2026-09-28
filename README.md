@@ -594,17 +594,7 @@ AXION could learn user-defined preferences and financial goals while respecting 
 
 The same architecture could be extended to automate repetitive finance operations for businesses.
 
----
 
-# 🏆 Hackathon Vision
-
-AXION explores a fundamental question:
-
-> **What if financial software could move from simply showing users information to intelligently carrying out authorized financial workflows?**
-
-Our goal is to build a financial AI system where **intelligence is connected to action**, while safety, transparency, and user control remain central.
-
----
 
 # 👥 Team
 
@@ -616,12 +606,6 @@ Built for **AI / FinTech Hackathon**
 
 ---
 
-# 📜 License
 
-This project is developed for educational and hackathon purposes.
 
----
 
-## ⭐ If you find AXION interesting
-
-Give the repository a ⭐ and follow the project as we continue exploring **autonomous AI for financial workflows**.
